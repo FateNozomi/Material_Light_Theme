@@ -8,5 +8,5 @@ Thumbs.db
 .classpath
 .project
 project.properties
-/theme/src/material/bin
-/theme/src/material/gen
+/theme/src/material_light/bin
+/theme/src/material_light/gen
