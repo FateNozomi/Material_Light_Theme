@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <item type="drawable" name="bg_light">#fff6f6f6</item>
+    <item type="drawable" name="bg_light">#ffffffff</item>
 
 </resources>
