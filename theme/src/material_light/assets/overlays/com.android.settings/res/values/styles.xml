@@ -51,12 +51,9 @@
     </style>
 
 	<!-- Framework ListSeparator Design -->
-    <style name="Widget.Holo.Light.TextView.ListSeparator" parent="@*android:style/Widget.TextView.ListSeparator">
-        <item name="android:textSize">13.0dip</item>
-        <item name="android:background">@*android:drawable/list_section_divider_holo_light</item>
-        <item name="android:textAllCaps">true</item>
-		<item name="android:textColor">#ff009587</item>
-        <item name="android:textStyle">normal</item>
+    <style name="Widget.Holo.Light.TextView.ListSeparator" parent="@*android:style/Widget.Holo.Light.TextView.ListSeparator">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">#ff009587</item>
 		<item name="android:fontFamily">sans-serif-medium</item>
     </style>
 
